@@ -35,7 +35,7 @@ I'm continuously strengthening my technical skills and building a portfolio of h
 
 - Business Intelligence: Data modeling, visualization, and dashboard development
 
-- Git & GitHub: Documenting projects and tracking my learning journey
+- Git & GitHub: Documenting projects
 
 
 ### 🎯 My Goal
