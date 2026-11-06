@@ -18,11 +18,11 @@ My professional journey has taken me from working with data across the hospitali
 
 ### 🛠️ Tech Stack
 
-Data Analysis & BI: Power BI · Excel · Power Query · Qualtrics
+- Data Analysis & BI: Power BI · Excel · Power Query · Qualtrics
 
-Databases & Programming: SQL · PostgreSQL · Python · Pandas · spaCy
+- Databases & Programming: SQL · PostgreSQL · Python · Pandas · spaCy
 
-Automation & Version Control: Power Automate · Git · GitHub
+- Automation & Version Control: Power Automate · Git · GitHub
 
 
 ### 🚀 What I'm Currently Working On
