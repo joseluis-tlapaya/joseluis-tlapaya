@@ -7,7 +7,7 @@ My professional journey has taken me from working with data across the hospitali
 
 ### 💼 Professional Experience
 
-- People Analytics: Supported employee experience and engagement initiatives covering approximately 14K employees across 06 countries
+- People Analytics: Supported employee experience and engagement initiatives covering approximately +14K employees across 06 countries
 
 - Business Intelligence: Worked with Power BI, Excel, Power Query, and Qualtrics to transform data, develop dashboards, and support business decisions
 
@@ -35,7 +35,7 @@ I'm continuously strengthening my technical skills and building a portfolio of h
 
 - Business Intelligence: Data modeling, visualization, and dashboard development
 
-- Git & GitHub: Documenting projects
+- Git & GitHub: Documenting projects and notes
 
 
 ### 🎯 My Goal
