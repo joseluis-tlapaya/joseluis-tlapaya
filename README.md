@@ -1,8 +1,6 @@
 ## Hi, I'm José Luis! 👋
 
-I'm a data professional with hands-on experience in data analysis, process automation, and business intelligence
-
-My professional journey has taken me from working with data across the hospitality and employee experience industries, where I've helped turn complex information into actionable insights
+I'm a data analyst with a background in hospitality and employee experience. I turn complex data into clear insights, automate repetitive workflows, and build BI solutions that support better decisions
 
 
 ### 💼 Professional Experience
