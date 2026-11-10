@@ -7,7 +7,7 @@ My professional journey has taken me from working with data across the hospitali
 
 ### 💼 Professional Experience
 
-- People Analytics: Supported employee experience and engagement initiatives covering approximately +14K employees across 06 countries
+- People Analytics: Supported employee experience and engagement initiatives covering 14K+ employees across six countries (Mexico, Jamaica, Dominican Republic, United States, Italy, and the Maldives).
 
 - Business Intelligence: Worked with Power BI, Excel, Power Query, and Qualtrics to transform data, develop dashboards, and support business decisions
 
