@@ -3,7 +3,7 @@
 I'm a data analyst with a background in hospitality and employee experience. I turn complex data into clear insights, automate repetitive workflows, and build BI solutions that support better decisions
 
 
-### 💼 Professional Experience
+### 💼 What I've Done
 
 - People Analytics: Supported employee experience and engagement initiatives covering 14K+ employees across six countries (Mexico, Jamaica, Dominican Republic, United States, Italy, and the Maldives).
 
