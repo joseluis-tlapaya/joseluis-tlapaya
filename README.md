@@ -7,7 +7,7 @@ I'm a data analyst with a background in hospitality and employee experience. I t
 
 - **People Analytics:** Delivered employee engagement and experience analytics for 14K+ employees across six countries (Mexico, Jamaica, Dominican Republic, United States, Italy, and the Maldives)
 
-- **Business Intelligence:** Worked with Power BI, Excel, Power Query, and Qualtrics to transform data, develop dashboards, and support business decisions
+- **Business Intelligence:** Built dashboards and data models with Power BI, Excel, Power Query, and Qualtrics to guide business decisions
 
 - **Automation & Data Processing:** Applied Power Query and Power Automate to streamline data preparation and repetitive workflows
 
