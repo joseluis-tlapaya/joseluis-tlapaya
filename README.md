@@ -9,7 +9,7 @@ I'm a data analyst with a background in hospitality and employee experience. I t
 
 - **Business Intelligence:** Built dashboards and data models with Power BI, Excel, Power Query, and Qualtrics to guide business decisions
 
-- **Automation & Data Processing:** Applied Power Query and Power Automate to streamline data preparation and repetitive workflows
+- **Automation:** Streamlined data preparation and repetitive processes with Power Query and Power Automate
 
 - **Python & NLP:** Used Python, Pandas, and spaCy to process and analyze customer feedback in the hospitality industry
 
