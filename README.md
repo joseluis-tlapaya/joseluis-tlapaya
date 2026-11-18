@@ -11,7 +11,7 @@ I'm a data analyst with a background in hospitality and employee experience. I t
 
 - **Automation:** Streamlined data preparation and repetitive processes with Power Query and Power Automate
 
-- **Python & NLP:** Used Python, Pandas, and spaCy to process and analyze customer feedback in the hospitality industry
+- **Python & NLP:** Analyzed hospitality guest feedback with Python, Pandas, and spaCy to surface actionable themes
 
 
 ### 🛠️ Tech Stack
