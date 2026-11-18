@@ -16,11 +16,11 @@ I'm a data analyst with a background in hospitality and employee experience. I t
 
 ### 🛠️ Tech Stack
 
-- Data Analysis & BI: Power BI · Excel · Power Query · Qualtrics
+- **Data Analysis & BI:** Power BI · Excel · Power Query · Qualtrics
 
-- Databases & Programming: SQL · PostgreSQL · Python · Pandas · spaCy
+- **Databases & Programming:** SQL · PostgreSQL · Python · Pandas · spaCy
 
-- Automation & Version Control: Power Automate · Git · GitHub
+- **Automation & Version Control:** Power Automate · Git · GitHub
 
 
 ### 🚀 What I'm Currently Working On
