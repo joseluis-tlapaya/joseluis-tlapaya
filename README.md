@@ -25,7 +25,7 @@ I'm a data analyst with a background in hospitality and employee experience. I t
 
 ### 🚀 What I'm Currently Working On
 
-I'm continuously strengthening my technical skills and building a portfolio of hands-on projects focused on:
+I'm building a portfolio of hands-on projects to deepen my technical skills:
 
 - SQL: Querying, joining, and analyzing data with PostgreSQL
 
