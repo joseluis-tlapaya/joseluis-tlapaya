@@ -27,13 +27,13 @@ I'm a data analyst with a background in hospitality and employee experience. I t
 
 I'm building a portfolio of hands-on projects to deepen my technical skills:
 
-- SQL: Querying, joining, and analyzing data with PostgreSQL
+- **SQL:** Writing queries, joins, and analyses in PostgreSQL
 
-- Python: Data cleaning, analysis, and automation
+- **Python:** Data cleaning, analysis, and automation
 
-- Business Intelligence: Data modeling, visualization, and dashboard development
+- **Business Intelligence:** Data modeling, visualization, and dashboard development
 
-- Git & GitHub: Documenting projects and notes
+- **Git & GitHub:** Documenting projects and notes
 
 
 ### 🎯 My Goal
