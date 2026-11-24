@@ -29,7 +29,7 @@ I'm building a portfolio of hands-on projects to deepen my technical skills:
 
 - **SQL:** Writing queries, joins, and analyses in PostgreSQL
 
-- **Python:** Data cleaning, analysis, and automation
+- **Python:** Data cleaning, analysis, and automation scripts
 
 - **Business Intelligence:** Data modeling, visualization, and dashboard development
 
