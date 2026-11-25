@@ -31,7 +31,7 @@ I'm building a portfolio of hands-on projects to deepen my technical skills:
 
 - **Python:** Data cleaning, analysis, and automation scripts
 
-- **Business Intelligence:** Data modeling, visualization, and dashboard development
+- **BI:** Data modeling, visualization, and dashboard design
 
 - **Git & GitHub:** Documenting projects and notes
 
