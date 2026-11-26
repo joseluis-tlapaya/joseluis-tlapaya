@@ -33,7 +33,7 @@ I'm building a portfolio of hands-on projects to deepen my technical skills:
 
 - **BI:** Data modeling, visualization, and dashboard design
 
-- **Git & GitHub:** Documenting projects and notes
+- **Git & GitHub:** Documenting projects and learning notes
 
 
 ### 🎯 My Goal
